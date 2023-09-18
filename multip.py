@@ -1,4 +1,4 @@
-n=9
+n=int(input("enter the table number"))
 counter=1
 
 while counter <= 10:
