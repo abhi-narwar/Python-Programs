@@ -1,0 +1,5 @@
+str1=input("enter the word")
+out=sorted(str1)
+print(out)
+str2=''.join(out)
+print(str2)
