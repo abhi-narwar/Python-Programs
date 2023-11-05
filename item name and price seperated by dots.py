@@ -1,0 +1,6 @@
+item=input("enter the item name")
+price=input("enter the price")
+total_len=len(item)+len(price)
+print(total_len)
+dots='.'*(25-7)
+print(item+dots+price)
