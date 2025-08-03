@@ -7,3 +7,4 @@ for i in range(3):
     students[name]={'name':name,'rollno':rollno,'dep':dep}
 print(students)
     
+
