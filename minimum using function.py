@@ -6,3 +6,4 @@ def minimum(*val, low_limit=None):
         return min(L)
 
 print(minimum(1,2,5,10,-5,12,20,-10,25, low_limit=14))
+
